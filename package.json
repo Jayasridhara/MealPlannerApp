@@ -1,0 +1,23 @@
+{
+  "name": "mealplannerapp",
+  "version": "1.0.0",
+  "description": "\"planner",
+  "keywords": [
+    "\"add\""
+  ],
+  "homepage": "https://github.com/Jayasridhara/MealPlannerApp#readme",
+  "bugs": {
+    "url": "https://github.com/Jayasridhara/MealPlannerApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayasridhara/MealPlannerApp.git"
+  },
+  "license": "ISC",
+  "author": "\"jayasri\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"deit\""
+  }
+}
