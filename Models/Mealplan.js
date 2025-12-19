@@ -13,6 +13,7 @@ const mealplanSchema=new mongoose.Schema({
             enum:['Breakfast','Lunch','Dinner','Snack']
         },
         name:String,
+        calorieIntake:Number,
         calories:Number,
         protien:Number,
         carbs:Number,
